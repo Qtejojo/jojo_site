@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JoJo Qi's Site</title><link>http://localhost:1313/docs/shortcodes/</link><description>Recent content on JoJo Qi's Site</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/docs/shortcodes/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://localhost:1313/docs/shortcodes/buttons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/buttons/</guid><description>&lt;h1 id="buttons">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JoJo Qi's Site</title><link>http://localhost:59528/docs/shortcodes/</link><description>Recent content on JoJo Qi's Site</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:59528/docs/shortcodes/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://localhost:59528/docs/shortcodes/buttons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59528/docs/shortcodes/buttons/</guid><description>&lt;h1 id="buttons">
  Buttons
  &lt;a class="anchor" href="#buttons">#&lt;/a>
 &lt;/h1>
@@ -9,10 +9,10 @@
 &lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-tpl" data-lang="tpl">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#a6e22e">relref&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;/&amp;#34;&lt;/span> &lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#a6e22e">class&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;...&amp;#34;&lt;/span>&lt;span style="color:#f92672">]&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>Get Home&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#a6e22e">href&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>Contribute&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;a href="http://localhost:1313/" class="book-btn">Get Home&lt;/a>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;a href="http://localhost:59528/" class="book-btn">Get Home&lt;/a>
 
 &lt;a href="https://github.com/alex-shpak/hugo-book" target="_blank" rel="noopener" class="book-btn">Contribute&lt;/a>
-&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/columns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/columns/</guid><description>&lt;h1 id="columns">
+&lt;/p></description></item><item><title/><link>http://localhost:59528/docs/shortcodes/columns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59528/docs/shortcodes/columns/</guid><description>&lt;h1 id="columns">
  Columns
  &lt;a class="anchor" href="#columns">#&lt;/a>
 &lt;/h1>
@@ -43,7 +43,7 @@
 &lt;p>Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 protulit, sed sed aere valvis inhaesuro Pallas animam: qui &lt;em>quid&lt;/em>, ignes.
-Miseratus fonte Ditis conubia.&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/details/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/details/</guid><description>&lt;h1 id="details">
+Miseratus fonte Ditis conubia.&lt;/p></description></item><item><title/><link>http://localhost:59528/docs/shortcodes/details/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59528/docs/shortcodes/details/</guid><description>&lt;h1 id="details">
  Details
  &lt;a class="anchor" href="#details">#&lt;/a>
 &lt;/h1>
@@ -66,7 +66,7 @@ Miseratus fonte Ditis conubia.&lt;/p></description></item><item><title/><link>ht
  &lt;a class="anchor" href="#markdown-content">#&lt;/a>
 &lt;/h2>
 &lt;p>Lorem markdownum insigne&amp;hellip;&lt;/p>
-&lt;!-- raw HTML omitted --></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/hints/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/hints/</guid><description>&lt;h1 id="hints">
+&lt;!-- raw HTML omitted --></description></item><item><title/><link>http://localhost:59528/docs/shortcodes/hints/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59528/docs/shortcodes/hints/</guid><description>&lt;h1 id="hints">
  Hints
  &lt;a class="anchor" href="#hints">#&lt;/a>
 &lt;/h1>
@@ -84,7 +84,7 @@ There are 3 colors to choose: &lt;code>info&lt;/code>, &lt;code>warning&lt;/code
 &lt;!-- raw HTML omitted -->
 &lt;p>&lt;strong>Markdown content&lt;/strong>&lt;br>
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
-stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/mermaid/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/mermaid/</guid><description>&lt;h1 id="mermaid-chart">
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&lt;/p></description></item><item><title/><link>http://localhost:59528/docs/shortcodes/mermaid/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59528/docs/shortcodes/mermaid/</guid><description>&lt;h1 id="mermaid-chart">
  Mermaid Chart
  &lt;a class="anchor" href="#mermaid-chart">#&lt;/a>
 &lt;/h1>
@@ -116,7 +116,7 @@ create a &lt;code>mermaid.json&lt;/code> file in your &lt;code>assets&lt;/code> 
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted --></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/tabs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/tabs/</guid><description>&lt;h1 id="tabs">
+&lt;!-- raw HTML omitted --></description></item><item><title/><link>http://localhost:59528/docs/shortcodes/tabs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59528/docs/shortcodes/tabs/</guid><description>&lt;h1 id="tabs">
  Tabs
  &lt;a class="anchor" href="#tabs">#&lt;/a>
 &lt;/h1>
@@ -134,7 +134,7 @@ create a &lt;code>mermaid.json&lt;/code> file in your &lt;code>assets&lt;/code> 
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted --></description></item><item><title>KaTeX</title><link>http://localhost:1313/docs/shortcodes/katex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/katex/</guid><description>&lt;h1 id="katex">
+&lt;!-- raw HTML omitted --></description></item><item><title>KaTeX</title><link>http://localhost:59528/docs/shortcodes/katex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59528/docs/shortcodes/katex/</guid><description>&lt;h1 id="katex">
  KaTeX
  &lt;a class="anchor" href="#katex">#&lt;/a>
 &lt;/h1>
