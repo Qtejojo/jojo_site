@@ -1,14 +1,14 @@
 {
   "name": "JoJo Qi's Site",
   "short_name": "JoJo Qi's Site",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/jojo_site/",
+  "scope": "/jojo_site/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/jojo_site/favicon.svg",
       "sizes": "512x512"
     }
   ]

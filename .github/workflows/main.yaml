@@ -1,38 +1,36 @@
-name: Build with Hugo
+name: Deploy Hugo to GitHub Pages
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write  # GitHub Pages 部署需要
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        hugo-version:
-          - 'latest'
-          - '0.134.2'
     steps:
-      - uses: actions/checkout@v4
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: ${{ matrix.hugo-version }}
+          hugo-version: 'latest'
           extended: true
 
-      - name: Run Hugo
-        working-directory: .
-        run: hugo --themesDir ./themes
-        
+      - name: Build Hugo Site
+        run: hugo --minify --theme hugo-book
 
-      # - name: Deploy
-      #   uses: peaceiris/actions-gh-pages@v3
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     publish_dir: ./public
-# Deployment job
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./public
+
   deploy:
     environment:
       name: github-pages
