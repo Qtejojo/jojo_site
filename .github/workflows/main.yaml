@@ -8,7 +8,7 @@ on:
 permissions:
   contents: read
   pages: write
-  id-token: write  # GitHub Pages 部署需要
+  id-token: write  # ✅ 关键！GitHub Pages 部署需要 OIDC 认证
 
 jobs:
   build:
@@ -29,7 +29,7 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: ./public
+          path: ./public  # ✅ 上传 Hugo 生成的静态文件
 
   deploy:
     environment:
