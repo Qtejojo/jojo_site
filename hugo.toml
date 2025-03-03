@@ -1,6 +1,7 @@
-baseURL = "https://qtejojo.github.io/jojo_site"
+baseURL = "https://qtejojo.github.io/jojo_site/"
 languageCode = 'en-us'
 title = "JoJo Qi's Site"
+theme = "hugo-book"
 
 # Multi-lingual mode config
 [languages]
@@ -8,14 +9,24 @@ title = "JoJo Qi's Site"
   languageName = 'English'
   contentDir = 'content/en'
   weight = 1
+  title = "JoJo Qi's Site"
 
 [languages.zh]
   languageName = '中文'
   contentDir = 'content/zh'
   weight = 2
+  title = "JoJo Qi的网站"
 
 [params]
   # Theme configuration
   BookTheme = 'light'
   # Enable multilingual mode
   BookTranslatedOnly = false
+  
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
