@@ -1,0 +1,9 @@
+# Images for Agent Design Documentation
+
+This directory contains images used in the agent_design.md documentation.
+
+Place your image files in this directory and reference them in the markdown file using relative paths:
+
+```markdown
+![Image Description](images/your-image-filename.jpg)
+```
