@@ -1,11 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Introduction on JoJo Qi&#39;s Site</title>
-    <link>http://localhost:57614/jojo_site/</link>
-    <description>Recent content in Introduction on JoJo Qi&#39;s Site</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="http://localhost:57614/jojo_site/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on JoJo Qi's Site</title><link>http://localhost:59872/jojo_site/</link><description>Recent content in Introduction on JoJo Qi's Site</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:59872/jojo_site/index.xml" rel="self" type="application/rss+xml"/><item><title>Agent Design Patterns</title><link>http://localhost:59872/jojo_site/docs/example/table-of-contents/llm/agent/agent_design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59872/jojo_site/docs/example/table-of-contents/llm/agent/agent_design/</guid><description>&lt;h1 id="agent-design-patterns">
+ Agent Design Patterns
+ &lt;a class="anchor" href="#agent-design-patterns">#&lt;/a>
+&lt;/h1>
+&lt;p>Liu et al. (2024) present a systematic framework for foundation model-based agents, addressing core challenges in autonomous decision-making and plan generation (
+ &lt;a href="https://arxiv.org/abs/2405.10467">arXiv:2405.10467&lt;/a>).&lt;/p>
+&lt;h2 id="architectural-components">
+ Architectural Components
+ &lt;a class="anchor" href="#architectural-components">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="1-goal-formation">
+ 1. Goal Formation
+ &lt;a class="anchor" href="#1-goal-formation">#&lt;/a>
+&lt;/h3>
+&lt;p>
+ &lt;img src="images/passive_goal_creator.jpg" alt="Passive Goal Creation" />&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Passive Goal Creation&lt;/strong>&lt;br>
+Direct extraction of user-specified objectives (e.g., order-taking systems)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Proactive Goal Creation&lt;/strong>&lt;br>
+Context-aware goal suggestion using environmental signals (e.g., fatigue detection in smart vehicles)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="2-inputoutput-processing">
+ 2. Input/Output Processing
+ &lt;a class="anchor" href="#2-inputoutput-processing">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Prompt/Response Optimization&lt;/strong>&lt;br>
+Standardizes unstructured input and ensures coherent output formatting&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-knowledge-management">
+ 3. Knowledge Management
+ &lt;a class="anchor" href="#3-knowledge-management">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Retrieval Augmented Generation (RAG)&lt;/strong>&lt;br>
+Integrates real-time external data with internal knowledge repositories&lt;/li>
+&lt;/ul>
+&lt;h3 id="4-planning-systems">
+ 4. Planning Systems
+ &lt;a class="anchor" href="#4-planning-systems">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>One-Shot Planning&lt;/strong>&lt;br>
+Complete plan generation in single inference (e.g., route mapping)&lt;/li>
+&lt;li>&lt;strong>Incremental Planning&lt;/strong>&lt;br>
+Stepwise refinement with continuous validation (e.g., recipe execution)&lt;/li>
+&lt;li>&lt;strong>Multi-Path Planning&lt;/strong>&lt;br>
+Parallel plan generation with optimal path selection&lt;/li>
+&lt;/ul>
+&lt;h3 id="5-validation-mechanisms">
+ 5. Validation Mechanisms
+ &lt;a class="anchor" href="#5-validation-mechanisms">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Self-Refinement&lt;/strong>&lt;br>
+Internal consistency checking and error correction&lt;/li>
+&lt;li>&lt;strong>Cross-Agent Validation&lt;/strong>&lt;br>
+Distributed verification through model ensembles&lt;/li>
+&lt;li>&lt;strong>Human-in-the-Loop&lt;/strong>&lt;br>
+Expert feedback integration for preference alignment&lt;/li>
+&lt;/ul>
+&lt;h3 id="6-collaborative-architectures">
+ 6. Collaborative Architectures
+ &lt;a class="anchor" href="#6-collaborative-architectures">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Consensus Voting&lt;/strong>&lt;br>
+Democratic resolution through agent polling&lt;/li>
+&lt;li>&lt;strong>Role Specialization&lt;/strong>&lt;br>
+Task-oriented agent team composition&lt;/li>
+&lt;li>&lt;strong>Debate Protocols&lt;/strong>&lt;br>
+Perspective negotiation through structured discourse&lt;/li>
+&lt;/ul>
+&lt;h3 id="7-safety-systems">
+ 7. Safety Systems
+ &lt;a class="anchor" href="#7-safety-systems">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Multimodal Filtering&lt;/strong>&lt;br>
+Cross-modal content safety enforcement&lt;/li>
+&lt;li>&lt;strong>Tool Integration Layer&lt;/strong>&lt;br>
+Unified interface for external service orchestration&lt;/li>
+&lt;li>&lt;strong>Performance Monitoring&lt;/strong>&lt;br>
+Continuous agent capability assessment&lt;/li>
+&lt;/ul></description></item></channel></rss>

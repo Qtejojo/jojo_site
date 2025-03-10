@@ -22,6 +22,8 @@ theme = "hugo-book"
   BookTheme = 'light'
   # Enable multilingual mode
   BookTranslatedOnly = false
+  # Enable portable links for images
+  BookPortableLinks = true
   
 # Needed for mermaid/katex shortcodes
 [markup]
